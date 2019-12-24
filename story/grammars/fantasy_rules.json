@@ -229,7 +229,7 @@
     "isnt" : ["isn't", "is not"],
     "enough" : ["enough", "sufficient", "good enough"],
     "not_enough" : ["#isnt# #enough#", "#isnt# #enough# anymore"],
-    "simple" : ["simple", "basic", "general", "standard"],
+    "simple" : ["simple", "basic", "general", "standard", "ordinary", "routine", "plain", "regular"],
     "rogue_three" : "This #time# you decided that #simple# #stealing# #not_enough#. You long for a more ambitious goal: taking for yourself #whole_artifact#.\n\nYou #action#",
     "rogue_prompt" : ["#rogue_one#","#rogue_two#", "#rogue_three#"],
     "rogue_context" : "You are <NAME>, a rogue #from_fantasy#. You have #rogue_item.a# and #rogue_item.a#."
